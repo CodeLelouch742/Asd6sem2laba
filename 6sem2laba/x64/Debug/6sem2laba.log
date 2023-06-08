@@ -1,0 +1,4 @@
+﻿  6sem2laba.cpp
+C:\Users\User\source\repos\6sem2laba\6sem2laba\heap.h(71,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\6sem2laba\6sem2laba\heap.h(110): warning C4715: BinaryHeap::top: значение возвращается не при всех путях выполнения
+  6sem2laba.vcxproj -> C:\Users\User\source\repos\6sem2laba\x64\Debug\6sem2laba.exe
